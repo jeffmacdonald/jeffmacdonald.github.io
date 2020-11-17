@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+I used tips from here: https://nicolas-van.github.io/easy-markdown-to-github-pages/
+
 You can use the [editor on GitHub](https://github.com/jeffmacdonald/jeffmacdonald.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
