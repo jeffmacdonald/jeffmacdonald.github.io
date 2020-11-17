@@ -14,4 +14,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - foo.md
+  - foo.html
 theme: jekyll-theme-tactile
